@@ -1,9 +1,8 @@
-package pkg2si4_lab_5;
-
 /**
  *
  * @author moham
  */
+
 public class MaxHeap {
     private Integer[] heap; //this is the array that will store out max heap.
     private int arraySize; //the size of the "heap" array
