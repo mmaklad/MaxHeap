@@ -1,10 +1,10 @@
-package pkg2si4_lab_5;
-import java.util.Arrays;
-
 /**
  *
  * @author moham
  */
+
+import java.util.Arrays;
+
 public class TestClass {
 
     /**
@@ -67,6 +67,5 @@ public class TestClass {
         MaxHeap.heapsort(a);
         System.out.print("This is the array after heapsort: ");
         System.out.println(Arrays.toString(a));
-    }
-    
+    } 
 }
